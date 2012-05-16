@@ -1,0 +1,14 @@
+body, html { margin:0; padding:0; }
+#name
+{
+	position:absolute;
+	top:8;
+	left:10;
+	width:330;
+	font-size:16px;
+	font-family:"Arial";
+	color:#FFF;
+	text-align:center;
+	background-color:transparent;
+	border:none;
+}
